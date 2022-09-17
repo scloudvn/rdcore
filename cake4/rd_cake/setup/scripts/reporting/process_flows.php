@@ -3,7 +3,7 @@
 
 //Some global variables
 $servername = "localhost";
-$username   = "root";
+$username   = "rd";
 $password   = "";
 $conn       = false;
 $conn2      = false;
