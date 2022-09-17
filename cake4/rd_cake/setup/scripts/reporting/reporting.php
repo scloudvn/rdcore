@@ -32,6 +32,7 @@ function main(){
         $mac = $_POST["mac"];
         die($mac);
         logger("Doing Report for $mac");
+        die($mac);
         if(isset($_POST["mode"])){
             $mode = $_POST["mode"];
         }    
