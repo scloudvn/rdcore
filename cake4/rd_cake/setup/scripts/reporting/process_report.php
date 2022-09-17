@@ -8,7 +8,7 @@
 //Some global variables
 $servername = "localhost";
 $username   = "rd";
-$password   = "";
+$password   = "rd";
 $conn       = false;
 $conn2      = false;
 
